@@ -1,0 +1,36 @@
+@charset "utf-8";
+/* CSS Document */
+
+/* Reset */
+body {margin:0px; padding:0px;}
+
+/* HTML */ 
+body {background-color:#262626; font-family:Verdana, Geneva, sans-serif; font-size:12px; color:#FFF;}
+
+/* Container */
+.container {width:650px; margin:0 auto;}
+
+/* Class */
+.header {text-align:center; margin:10px 0;}
+.main-wrapper { background-color:#3b4456; width:630px; padding:10px 10px 0 10px; }
+.welcome {background-color:rgba(0, 0, 0, 0.17); padding:10px; text-align:center; text-shadow: 1px 1px 0px #000000; margin-bottom:5px;}
+.main-forms {text-align:center;}
+
+/* Form */
+.field {border:none; margin:5px; width:30px;}
+.tag {border:none; margin:5px; }
+.generate {background-color:rgba(0, 0, 0, 0.17); width:85px; height:29px; color:#FFF; border:none; margin:5px;}
+.generate:hover {text-shadow: 1px 1px 0px #000000; background-color:rgba(0, 0, 0, 0.45);}
+
+/* Results */
+.result-main { background-color:rgba(0, 0, 0, 0.17); text-align:center; margin: 10px -10px 0px -10px; padding-top:10px; padding-bottom: 10px; }
+.card {margin:10px; }
+.link { background-color:rgba(0, 0, 0, 0.17); border:dashed 1px rgba(0, 0, 0, 0.45); margin:10px auto 10px auto; font-size:10px; padding:8px; width: 350px; }
+
+/* Footer */
+.footer {font-size:9px; }
+.za {float:left}
+.aaron {float:right}
+
+/* shit that aaron forgot to add :P */
+a { color:#fff; }
